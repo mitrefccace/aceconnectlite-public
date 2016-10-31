@@ -1,0 +1,3 @@
+[submodule "aceconnectlite"]
+	path = aceconnectlite
+	url = git@github.com:mitrefccace/aceconnectlite.git
