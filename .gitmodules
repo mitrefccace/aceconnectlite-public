@@ -1,3 +1,6 @@
 [submodule "aceconnectlite"]
 	path = aceconnectlite
 	url = git@github.com:mitrefccace/aceconnectlite.git
+[submodule "acr-cdr"]
+	path = acr-cdr
+	url = git@github.com:mitrefccace/acr-cdr.git
