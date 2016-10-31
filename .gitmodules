@@ -13,3 +13,6 @@
 [submodule "asterisk"]
 	path = asterisk
 	url = git@github.com:mitrefccace/asterisk.git
+[submodule "managementportal"]
+	path = managementportal
+	url = git@github.com:mitrefccace/managementportal.git
