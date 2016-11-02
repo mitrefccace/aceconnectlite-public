@@ -3,7 +3,7 @@ ACE Connect Lite Project
 ## Documentation:
  1. Please see the docs folder for documentation on the project overview, installation, and configuration.
 
-## Components:
+## Components (IMPORTANT: Get the "ACL" release from each Git submodule below):
 
 ACE Connect Lite
  1. This is the main component of the ACE Connect Lite system. See the aceconnectlite folder for installation instructions.
